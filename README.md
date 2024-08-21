@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to My Portfolio
 
+Hi, I'm Keegan, a Data Scientist with a background in Systems Engineering and Software Testing and a passion for taking a data-driven and human-centered approach to solving complex and intersectional problems across a multitude of domains. You'll find a collection of projects here that showcase my skills in data science, machine learning, and UX/UI design applied to gaining insights into topics from digital humanities and psychological research to music and travel.
 <!--
 **keeganmcgarry/keeganmcgarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
