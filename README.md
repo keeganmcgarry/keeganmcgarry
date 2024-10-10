@@ -1,8 +1,6 @@
 ## Welcome to My Portfolio
 
 I am a research engineer with 3+ years of industry experience in software test and evaluation and systems engineering. I recently completed a master’s degree in computer science from Georgia Tech, and I’m now seeking data-focused roles to leverage my technical expertise and passion for taking a data-driven and human-centered approach to solving complex and intersectional problems. My goal is to apply my skills and experience in data analysis, artificial intelligence, machine learning, and software development to drive innovative solutions.
-
-I'm still building out my portfolio, but you'll eventually find a collection of projects here where I apply data analytics, machine learning algorithms, and UX/UI design principles to gain insights into a range of my interests, from psychology and aerospace to music and travel.
 <!--
 **keeganmcgarry/keeganmcgarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
